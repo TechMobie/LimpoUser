@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 23</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polerasx7" transform="translate(0.015706, 0.000000)" fill-rule="nonzero">
+            <path d="M14.5242941,10.11 C8.83429406,8.79 1.98429406,10.54 0.304294063,19.7 C-1.37570594,28.86 3.98429406,33.28 14.3142941,33.39 C24.6442941,33.5 35.5442941,31.45 33.7142941,23.26 C31.8842941,15.07 26.1642941,15.26 23.3642941,15.71 C20.5642941,16.16 19.1642941,11.19 14.5242941,10.11 Z" id="Path" fill="#DEF0F8"></path>
+            <polygon id="Path" fill="#E5D4C4" points="33.5042941 14.05 26.0942941 6.64 26.0942941 6.62 8.28429406 6.62 8.18429406 6.62 0.744294063 14.05 5.39429406 18.7 8.28429406 15.81 8.28429406 33.39 26.0942941 33.39 26.0942941 15.93 28.8642941 18.7"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="15.0942941 10.71 11.5642941 6.65 13.4942941 5.02 17.0542941 7.48"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="19.0142941 10.71 22.5442941 6.65 20.6142941 5.02 17.0542941 7.48"></polygon>
+            <polygon id="Path" fill="#E5D4C4" points="20.6542941 6.72 17.0142941 7.48 13.4242941 6.72 13.4242941 4.06 20.6542941 4.06"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="15.0942941 9.75 11.5642941 6.65 13.4942941 4.06 17.0542941 7.48"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="19.0142941 9.75 22.5442941 6.65 20.6142941 4.06 17.0542941 7.48"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="20.0842941 12.93 24.2842941 12.93 24.2842941 16.3 22.1842941 17.99 20.0842941 16.3"></polygon>
+            <circle id="Oval" fill="#7FBC5B" cx="28.4342941" cy="7.05" r="7.05"></circle>
+            <text id="x" fill="#FFFFFF" font-family="Helvetica" font-size="7.95" font-weight="normal">
+                <tspan x="23.6242941" y="9.61">x</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

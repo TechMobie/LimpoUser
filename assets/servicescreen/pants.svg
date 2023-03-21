@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="43px" viewBox="0 0 44 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice 1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pantalon_pollera" transform="translate(0.994534, 0.000000)" fill-rule="nonzero">
+            <path d="M18.425466,7 C11.215466,5.28 2.59546598,7.5 0.405465982,19.1 C-1.78453402,30.7 5.00546598,36.3 18.145466,36.43 C31.285466,36.56 45.005466,34 42.715466,23.61 C40.425466,13.22 33.155466,13.51 29.615466,14.05 C26.075466,14.59 24.285466,8.32 18.425466,7 Z" id="Path" fill="#DAF0F9"></path>
+            <path d="M21.665466,14.45 L17.805466,42.7 L9.00546598,42.74 C9.35546598,28.74 9.72546598,14.15 10.085466,0 L32.905466,0 L34.395466,42.62 L25.745466,42.62 L21.665466,14.45 Z" id="Path" fill="#00B2E3"></path>
+        </g>
+    </g>
+</svg>

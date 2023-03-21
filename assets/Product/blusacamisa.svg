@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="27px" viewBox="0 0 34 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blusacamisa" fill-rule="nonzero">
+            <path d="M14.26,6 C9.51,4.9 3.83,6.37 2.39,14 C0.95,21.63 5.45,25.35 14.08,25.44 C22.71,25.53 31.8,23.82 30.27,17 C28.74,10.18 23.97,10.35 21.64,10.71 C19.31,11.07 18.13,6.91 14.26,6 Z" id="Path" fill="#E8F4FA"></path>
+            <polygon id="Path" fill="#A3D7EE" points="33.67 23.21 25.94 2.27 25.94 2.27 6.06 2.34 5.97 2.34 0 23.21 4.55 25.48 8.19 12.29 8.34 26.85 24.64 26.85 24.64 12.29 29.12 25.48"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="14.57 6.08 11.34 2.37 13.11 0.88 16.37 3.13"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="18.16 6.08 21.39 2.37 19.62 0.88 16.37 3.13"></polygon>
+            <polygon id="Path" fill="#A3D7EE" points="19.66 2.43 16.32 3.13 13.04 2.43 13.04 0 19.66 0"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="14.57 5.21 11.34 2.37 13.11 0 16.37 3.13"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="18.16 5.21 21.39 2.37 19.62 0 16.37 3.13"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="16.01 26.85 16.25 26.85 16.25 3.3 15.89 3.77"></polygon>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="4.89" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="8.24" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="11.6" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="14.96" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="18.32" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="25.43" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="21.96" r="1"></circle>
+        </g>
+    </g>
+</svg>

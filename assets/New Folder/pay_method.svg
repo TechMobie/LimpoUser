@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="36px" viewBox="0 0 43 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice 1</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pay_method" transform="translate(0.002749, 0.999513)" fill-rule="nonzero">
+            <path d="M24.0872513,0.570486616 C31.1572513,-1.35951338 39.6172513,1.20048662 41.7672513,14.5704866 C43.9172513,27.9404866 37.2072513,34.3104866 24.3572513,34.4704866 C11.5072513,34.6304866 -2.00274865,31.6404866 0.247251349,19.7204866 C2.49725135,7.80048662 9.62725135,8.10048662 13.1072513,8.73048662 C16.5872513,9.36048662 18.3272513,2.14048662 24.0872513,0.570486616 Z" id="Path" fill="#DEF0F8"></path>
+            <rect id="Rectangle" fill="#11B0DE" transform="translate(22.382979, 15.954348) rotate(-22.790000) translate(-22.382979, -15.954348) " x="7.7879789" y="5.6043478" width="29.19" height="20.7" rx="3.33"></rect>
+            <rect id="Rectangle" fill="#B0DCF0" transform="translate(17.475812, 25.314751) rotate(-22.790000) translate(-17.475812, -25.314751) " x="14.2408122" y="24.4747506" width="6.47" height="1.68" rx="0.31"></rect>
+            <rect id="Rectangle" fill="#B0DCF0" transform="translate(24.470505, 22.382791) rotate(-22.790000) translate(-24.470505, -22.382791) " x="21.2355048" y="21.5427914" width="6.47" height="1.68" rx="0.31"></rect>
+            <rect id="Rectangle" fill="#B0DCF0" transform="translate(31.480543, 19.427739) rotate(-22.790000) translate(-31.480543, -19.427739) " x="28.2455432" y="18.5877393" width="6.47" height="1.68" rx="0.31"></rect>
+            <circle id="Oval" fill="#051934" transform="translate(29.377427, 6.863429) rotate(-13.270000) translate(-29.377427, -6.863429) " cx="29.3774271" cy="6.86342946" r="2.33"></circle>
+            <circle id="Oval" fill="#B0DCF0" transform="translate(26.546415, 8.040624) rotate(-53.140000) translate(-26.546415, -8.040624) " cx="26.5464152" cy="8.0406239" r="2.33"></circle>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="31px" viewBox="0 0 35 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 5</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="camisax7" fill-rule="nonzero">
+            <path d="M14.75,7.83 C9.22,6.54 2.59,8.25 0.91,17.16 C-0.77,26.07 4.48,30.37 14.54,30.48 C24.6,30.59 35.2,28.59 33.41,20.62 C31.62,12.65 26.08,12.86 23.35,13.28 C20.62,13.7 19.26,8.88 14.75,7.83 Z" id="Path" fill="#E8F4FA"></path>
+            <polygon id="Path" fill="#A3D7EE" points="33.67 26.86 25.94 5.93 25.94 5.93 6.06 5.99 5.97 5.99 0 26.86 4.55 29.14 8.19 15.94 8.34 30.5 24.64 30.5 24.64 15.94 29.12 29.14"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="14.57 9.73 11.34 6.02 13.11 4.53 16.37 6.78"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="18.16 9.73 21.39 6.02 19.62 4.53 16.37 6.78"></polygon>
+            <polygon id="Path" fill="#A3D7EE" points="19.66 6.08 16.32 6.78 13.04 6.08 13.04 3.65 19.66 3.65"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="14.57 8.86 11.34 6.02 13.11 3.65 16.37 6.78"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="18.16 8.86 21.39 6.02 19.62 3.65 16.37 6.78"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="16.01 30.5 16.25 30.5 16.25 6.95 15.89 7.42"></polygon>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="8.54" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="11.9" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="15.26" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="18.62" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="21.97" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="29.08" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="16.38" cy="25.61" r="1"></circle>
+            <circle id="Oval" fill="#7FBC5B" cx="27.81" cy="7.05" r="7.05"></circle>
+            <text id="x" fill="#FFFFFF" font-family="Helvetica" font-size="7.95" font-weight="normal">
+                <tspan x="23.01" y="9.61">x</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

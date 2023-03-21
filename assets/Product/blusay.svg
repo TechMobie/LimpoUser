@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="27px" viewBox="0 0 36 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="blusay" transform="translate(0.997406, 0.000000)" fill-rule="nonzero">
+            <path d="M14.152594,2.29 C8.61259397,1 2.00259397,2.71 0.312593968,11.62 C-1.37740603,20.53 3.87259397,24.83 13.942594,24.93 C24.012594,25.03 34.592594,23.05 32.812594,15.08 C31.032594,7.11 25.472594,7.32 22.742594,7.74 C20.012594,8.16 18.662594,3.34 14.152594,2.29 Z" id="Path" fill="#E8F4FA"></path>
+            <polygon id="Path" fill="#C5E5F3" points="34.342594 23.21 26.602594 2.27 26.602594 2.27 6.73259397 2.34 6.64259397 2.34 0.672593968 23.21 5.22259397 25.48 8.86259397 12.29 9.00259397 26.85 25.302594 26.85 25.302594 12.29 29.792594 25.48"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="15.242594 6.08 12.012594 2.37 13.782594 0.88 17.032594 3.13"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="18.832594 6.08 22.062594 2.37 20.292594 0.88 17.032594 3.13"></polygon>
+            <polygon id="Path" fill="#A3D7EE" points="20.332594 2.43 16.992594 3.13 13.712594 2.43 13.712594 0 20.332594 0"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="15.242594 5.21 12.012594 2.37 13.782594 0 17.032594 3.13"></polygon>
+            <polygon id="Path" fill="#85CBE9" points="18.832594 5.21 22.062594 2.37 20.292594 0 17.032594 3.13"></polygon>
+            <polygon id="Path" fill="#11B0DE" points="16.682594 26.85 16.912594 26.85 16.912594 3.3 16.562594 3.77"></polygon>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="4.89" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="8.24" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="11.6" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="14.96" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="18.32" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="25.43" r="1"></circle>
+            <circle id="Oval" fill="#FFFFFF" cx="17.052594" cy="21.96" r="1"></circle>
+        </g>
+    </g>
+</svg>

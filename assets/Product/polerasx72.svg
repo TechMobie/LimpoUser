@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Untitled 24</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="polerasx72" fill-rule="nonzero">
+            <path d="M12.72,8.78 C7.72,7.63 1.86,9.16 0.36,17.11 C-1.14,25.06 3.54,28.91 12.53,29 C21.52,29.09 31,27.32 29.38,20.2 C27.76,13.08 22.83,13.27 20.38,13.65 C17.93,14.03 16.74,9.72 12.72,8.78 Z" id="Path" fill="#E8F4FA"></path>
+            <polygon id="Path" fill="#E5D4C4" points="32.77 12.37 25.35 4.95 25.35 4.93 7.54 4.93 7.44 4.93 0 12.37 4.65 17.02 7.54 14.13 7.54 31.7 25.35 31.7 25.35 14.24 28.12 17.02"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="14.35 9.02 10.82 4.96 12.75 3.33 16.31 5.79"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="18.27 9.02 21.8 4.96 19.87 3.33 16.31 5.79"></polygon>
+            <polygon id="Path" fill="#E5D4C4" points="19.91 5.03 16.27 5.79 12.68 5.03 12.68 2.37 19.91 2.37"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="14.35 8.06 10.82 4.96 12.75 2.37 16.31 5.79"></polygon>
+            <polygon id="Path" fill="#F0E7DE" points="18.27 8.06 21.8 4.96 19.87 2.37 16.31 5.79"></polygon>
+            <polygon id="Path" fill="#FFFFFF" points="19.34 11.24 23.54 11.24 23.54 14.61 21.44 16.3 19.34 14.61"></polygon>
+            <circle id="Oval" fill="#7FBC5B" cx="24.79" cy="6.13" r="6.13"></circle>
+            <text id="x" fill="#FFFFFF" font-family="Helvetica" font-size="6.9" font-weight="normal">
+                <tspan x="20.62" y="8.35">x</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
